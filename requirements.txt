@@ -83,9 +83,7 @@ pynvim==0.4.3
 pyparsing==2.4.7
 Pyphen==0.9.5
 pyrsistent==0.18.0
-python-apt==2.0.0+ubuntu0.20.4.7
 python-dateutil==2.7.3
-python-debian===0.1.36ubuntu1
 python-json-logger==2.0.2
 pytube==11.0.1
 pytz==2019.3
